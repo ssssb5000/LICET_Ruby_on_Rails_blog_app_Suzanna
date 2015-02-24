@@ -1,0 +1,1 @@
+# LICET_Ruby_on_Rails_blog_app_Suzanna
